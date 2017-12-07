@@ -1,0 +1,25 @@
+#navbar	{
+	font-size: 16px;
+	font-family: Arial
+	color: purple;
+}
+
+h1		{
+	font-size: 24px;
+	font-family: Arial;
+	color: white;
+	background: purple;
+}
+
+p 	{
+	font-size: 18px;
+	font-family: Arial;
+	color: purple;
+}
+
+footer	{
+	font-size: 24px;
+	font-family:Arial;
+	background: purple;
+	color: white;
+}
